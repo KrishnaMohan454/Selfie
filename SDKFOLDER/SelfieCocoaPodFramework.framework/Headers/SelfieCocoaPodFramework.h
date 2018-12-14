@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <SelfieCocoaPodFramework/SecondViewController.h>
+#import <SelfieCocoaPodFramework/ModalClass.h>
 //! Project version number for SelfieCocoaPodFramework.
 FOUNDATION_EXPORT double SelfieCocoaPodFrameworkVersionNumber;
 
